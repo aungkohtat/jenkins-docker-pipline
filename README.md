@@ -1,5 +1,4 @@
-# jenkins-docker-pipline
-# Jenkins CI/CD Pipeline Setup Guide
+# Jenkins CI/CD Pipeline Setup 
 
 This guide walks through setting up Jenkins with Docker for continuous integration and deployment. Follow these steps to get your pipeline up and running.
 
